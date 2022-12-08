@@ -10,5 +10,5 @@
   "license": "ISC",
   "bin": {
     "resume-me": "./index.js"
-  },
+  }
 }
