@@ -1,0 +1,1 @@
+I created a resume that shows some basic information about myself. Some things I included were my: LinkedIn, GitHub, email, and skills. 
